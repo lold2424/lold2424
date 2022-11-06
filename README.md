@@ -13,4 +13,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lold232)](https://solved.ac/lold232/)
-(https://solved.ac/lold232)
+<img src="http://mazandi.herokuapp.com/api?handle=lold232&theme=warm"/>
