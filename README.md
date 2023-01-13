@@ -2,8 +2,9 @@
 
 ## 🙄 대학교 다니면서 이것저것 건드려보면서 정리하고 있습니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lold2424&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lold2424&layout=compact&theme=highcontrast
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lold2424&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lold2424&layout=compact&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lold2424)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📗 Skills
 
