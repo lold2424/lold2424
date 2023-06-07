@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcom!&fontAlign=80&fontAlignY=40&color=gradient)
 
-## 🙄 대학교 다니면서 이것저것 건드려보면서 정리하고 있습니다.
+## 🙄 I'm an ordinary college student in Korea
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lold2424&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lold2424&layout=compact&theme=tokyonight)
