@@ -2,7 +2,6 @@
 
 ## 🙄 I'm an ordinary college student in Korea
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lold2424&layout=compact&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=lold2424)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📗 Skills
